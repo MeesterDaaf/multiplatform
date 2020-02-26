@@ -88,7 +88,7 @@ else:
 
 # opdracht 4 hieronder coderen
 def boete_geven():
-    u = ('Een auto rijdt te hard over de weg')
+    u = 'Een auto rijdt te hard over de weg'
     w = 'gewone auto'
     s = 100
 
